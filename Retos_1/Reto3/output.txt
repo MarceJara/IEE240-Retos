@@ -1,0 +1,43 @@
+Breakpoint 1 at 0x401064
+
+Breakpoint 1, 0x0000000000401064 in exit ()
+<<<-----Variables----->>>
+r11            0x246               582
+A debugging session is active.
+
+	Inferior 1 [process 9603] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0x401064
+
+Breakpoint 1, 0x0000000000401064 in exit ()
+<<<-----Variables----->>>
+rax            0x18                24
+rbx            0x7177657272657771  8176115190734354289
+rcx            0x401064            4198500
+rdx            0x18                24
+rsi            0x402000            4202496
+rdi            0x1                 1
+rbp            0x0                 0x0
+rsp            0x7fffffffe040      0x7fffffffe040
+r8             0x0                 0
+r9             0x54                84
+r10            0x0                 0
+r11            0x246               582
+r12            0x0                 0
+r13            0x0                 0
+r14            0x0                 0
+r15            0x0                 0
+rip            0x401064            0x401064 <exit>
+eflags         0x246               [ PF ZF IF ]
+cs             0x33                51
+ss             0x2b                43
+ds             0x0                 0
+es             0x0                 0
+fs             0x0                 0
+gs             0x0                 0
+A debugging session is active.
+
+	Inferior 1 [process 9654] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

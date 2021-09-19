@@ -1,0 +1,10 @@
+Breakpoint 1 at 0x401070
+
+Breakpoint 1, 0x0000000000401070 in exit ()
+<<<-----Variables----->>>
+r11            0x27                39
+A debugging session is active.
+
+	Inferior 1 [process 9559] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]
