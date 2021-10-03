@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+jupyter = "*"
 
 [dev-packages]
 
